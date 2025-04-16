@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, ich bin Oliver – angehender Anwendungsentwickler</h1>
+<h1 align="center">👋 Hi, ich bin Ole – angehender Anwendungsentwickler</h1>
 
 <p align="center">
   🔧 Umschüler zum Fachinformatiker Anwendungsentwicklung <br/>
